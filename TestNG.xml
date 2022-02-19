@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="GoogleV1">
+
+<listeners>
+		<listener class-name="com.google.utilities.Reporting" />
+	</listeners>
+	
+<test name="GoogleHomePage Test">
+
+		<parameter name="browser" value="edge" />
+		<parameter name="searchtxt" value="smartx"/>
+		<parameter name="app" value="youtube"/>
+		<classes>
+			
+		  <class name="com.google.testcases.TC_click_feelinglucky" />
+			  
+		<class name="com.google.testcases.TC_brokenLinks" />
+<!--  	<class name="com.google.testcases.TC_datadriven_search" />-->
+	<class name="com.google.testcases.TC_Images_link_test"/>
+	<class name="com.google.testcases.TC_openGoogleApps"/>
+
+		</classes>
+
+	</test>
+
+</suite>

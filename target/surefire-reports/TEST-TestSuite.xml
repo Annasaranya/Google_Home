@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="15.16" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="LOGONSERVER" value="\\LAPTOP-6QAK9GMR"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.13"/>
+    <property name="Node" value="C:\Program Files\nodejs"/>
+    <property name="NODE_NAME" value="built-in"/>
+    <property name="LG_PATH" value="C:\Program Files (x86)\HP\LoadRunner\"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="PSModulePath" value="C:\Program Files (x86)\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Barracuda\Network Access Client\Modules;C:\Program Files (x86)\AutoIt3\AutoItX"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="LAPTOP-6QAK9GMR"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="11.0.13"/>
+    <property name="JOB_NAME" value="Google_Home_Maven"/>
+    <property name="COMPUTERNAME" value="LAPTOP-6QAK9GMR"/>
+    <property name="ANDROID_HOME" value="C:\Users\sathi\AppData\Local\Android\Sdk"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="java.version.date" value="2021-10-19"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="user.name" value="sathi"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\windows"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 140 Stepping 1, GenuineIntel"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\sathi\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/Google_Home_Maven/7/display/redirect?page=changes"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="8"/>
+    <property name="BUILD_TAG" value="jenkins-Google_Home_Maven-7"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="LOG_FILE" value="C:\Users\sathi\AppData\Local\Temp\\ihp_custom_batches.log"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Users\sathi\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven C:\Users\sathi\.jenkins\war\WEB-INF\lib\remoting-4.11.2.jar C:\Users\sathi\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\sathi\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 1290"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="34b52217b60594fc"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="Path" value="C:\Program Files\Java\jdk-11.0.13/bin;C:\Program Files (x86)\HP\NV\lib\shunra\vcat;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\HP\Unified Functional Testing\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\HP\LoadRunner\strawberry-perl\perl\bin;C:\Program Files (x86)\HP\NV\lib\thirdparty\safenet\LDK\7.0;C:\Program Files (x86)\HP\NV\lib\shunra\snv;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\apache-maven-3.8.2-bin\apache-maven-3.8.2\bin;C:\Program Files\nodejs;C:\Users\sathi\AppData\Local\Android\Sdk\platform-tools;C:\Users\sathi\AppData\Local\Android\Sdk\tools;C:\Users\sathi\AppData\Local\Android\Sdk\build-tools;C:\Program Files\Android\Android Studio\bin;C:\Users\sathi\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.10;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\sathi\AppData\Local\Microsoft\WindowsApps;C:\Users\sathi\.dotnet\tools;C:\Program Files (x86)\BrowserStackLocal\;C:\Program Files\nodejs;C:\Program Files\nodejs\node_modules\npm\bin;C:\Users\sathi\AppData\Roaming\npm"/>
+    <property name="java.io.tmpdir" value="C:\Users\sathi\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\sathi\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/Google_Home_Maven/7/"/>
+    <property name="M2_HOME" value="C:\Users\sathi\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven"/>
+    <property name="=C:" value="C:\Users\sathi"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="ZES_ENABLE_SYSMAN" value="1"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="CI" value="true"/>
+    <property name="BUILD_DISPLAY_NAME" value="#7"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="LSERVRC" value="C:\ProgramData\HP\Functional testing\License\lservrc"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="34b52217b60594fc"/>
+    <property name="WORKSPACE_TMP" value="C:\Users\sathi\.jenkins\workspace\Google_Home_Maven@tmp"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="VS160COMCOMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\sathi\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="ANALYSIS_PATH" value="C:\Program Files (x86)\HP\LoadRunner\"/>
+    <property name="ST_INSTALL_PATH" value="C:\Program Files (x86)\HP\Unified Functional Testing\"/>
+    <property name="jansi.mode" value="strip"/>
+    <property name="HOMEPATH" value="\Users\sathi"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="BUILD_NUMBER" value="7"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven3.interceptor" value="C:\Users\sathi\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.13\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Users\sathi\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven/bin;C:\Program Files\Java\jdk-11.0.13/bin;C:\Program Files\Java\jdk-11.0.13/bin;C:\Program Files (x86)\HP\NV\lib\shunra\vcat;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\HP\Unified Functional Testing\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\HP\LoadRunner\strawberry-perl\perl\bin;C:\Program Files (x86)\HP\NV\lib\thirdparty\safenet\LDK\7.0;C:\Program Files (x86)\HP\NV\lib\shunra\snv;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\apache-maven-3.8.2-bin\apache-maven-3.8.2\bin;C:\Program Files\nodejs;C:\Users\sathi\AppData\Local\Android\Sdk\platform-tools;C:\Users\sathi\AppData\Local\Android\Sdk\tools;C:\Users\sathi\AppData\Local\Android\Sdk\build-tools;C:\Program Files\Android\Android Studio\bin;C:\Users\sathi\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.10;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\sathi\AppData\Local\Microsoft\WindowsApps;C:\Users\sathi\.dotnet\tools;C:\Program Files (x86)\BrowserStackLocal\;C:\Program Files\nodejs;C:\Program Files\nodejs\node_modules\npm\bin;C:\Users\sathi\AppData\Roaming\npm;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="Google_Home"/>
+    <property name="POM_ARTIFACTID" value="Google_Home"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/Google_Home_Maven/"/>
+    <property name="platformcode" value="KV"/>
+    <property name="OneDrive" value="C:\Users\sathi\OneDrive"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/Google_Home_Maven/7/display/redirect"/>
+    <property name="JENKINS_HOME" value="C:\Users\sathi\.jenkins"/>
+    <property name="BUILD_ID" value="7"/>
+    <property name="TEMP" value="C:\Users\sathi\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.13\bin"/>
+    <property name="VUGEN_PATH" value="C:\Program Files (x86)\HP\LoadRunner\"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="8c01"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="HUDSON_HOME" value="C:\Users\sathi\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\Users\sathi\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven/bin"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="LAPTOP-6QAK9GMR"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/Google_Home_Maven/7/display/redirect?page=artifacts"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk-11.0.13"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="built-in"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\sathi"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/Google_Home_Maven/display/redirect"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\sathi"/>
+    <property name="USERNAME" value="sathi"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="C:\saranya\selenium\Google_Home"/>
+    <property name="maven.conf" value="C:\Users\sathi\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven\conf"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\sathi\AppData\Local\Temp"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="11.0.13+10-LTS-370"/>
+    <property name="java.class.path" value="C:\Users\sathi\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\Users\sathi\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven\boot\plexus-classworlds-2.6.0.jar;C:\Users\sathi\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="RegionCode" value="NA"/>
+    <property name="OneDriveConsumer" value="C:\Users\sathi\OneDrive"/>
+    <property name="WORKSPACE" value="C:\Users\sathi\.jenkins\workspace\Google_Home_Maven"/>
+    <property name="ComSpec" value="C:\windows\system32\cmd.exe"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/Google_Home_Maven/7/display/redirect?page=tests"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="SystemRoot" value="C:\windows"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="LR_PATH" value="C:\Program Files (x86)\HP\LoadRunner\"/>
+    <property name="java.runtime.version" value="11.0.13+10-LTS-370"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="OnlineServices" value="Online Services"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk-11.0.13/bin"/>
+    <property name="user.country" value="US"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="Maven_home" value="C:\Users\sathi\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven"/>
+    <property name="maven.home" value="C:\Users\sathi\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven"/>
+    <property name="JOB_BASE_NAME" value="Google_Home_Maven"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="POM_DISPLAYNAME" value="GoogleHome"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase name="feelinglucky" classname="com.google.testcases.TC_click_feelinglucky" time="3.757"/>
+  <testcase name="broken_links" classname="com.google.testcases.TC_brokenLinks" time="5.793"/>
+  <testcase name="ImageLink_Test" classname="com.google.testcases.TC_Images_link_test" time="1.732"/>
+  <testcase name="clickGoogleApps" classname="com.google.testcases.TC_openGoogleApps" time="3.878"/>
+</testsuite>

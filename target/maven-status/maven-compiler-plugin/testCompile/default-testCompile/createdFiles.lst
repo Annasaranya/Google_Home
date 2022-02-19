@@ -1,0 +1,9 @@
+com\google\testcases\TC_brokenLinks.class
+com\google\utilities\Reporting.class
+com\google\testcases\TC_click_feelinglucky.class
+com\google\testcases\TC_datadriven_search.class
+com\google\testcases\TC_openGoogleApps.class
+com\google\pageObjects\Home_Page.class
+com\google\testcases\TC_Images_link_test.class
+com\google\utilities\XLUtils.class
+com\google\testcases\baseClass.class

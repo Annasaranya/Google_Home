@@ -1,0 +1,459 @@
+2022-02-17 14:58:53,402 [main] INFO com.google.testcases.baseClass - smartx is opened successfully
+2022-02-17 14:58:55,890 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-17 14:58:56,285 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-17 14:58:56,614 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-17 14:58:56,787 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-17 14:58:57,102 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-17 14:58:57,271 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-17 14:58:58,392 [main] ERROR com.google.testcases.baseClass - https://www.google.com/search?q=Dr.+Michiaki+Takahashi&oi=ddle&ct=207425236&hl=en&si=ANhW_NrBwbdpNHyNEAdL3p7xUv5AGJEN9h9MzGfi7qZ1Ph8M86uDP01y1LBc4Ybe2QqZUJXnKluqFKYSLXbq_O971gVNUE5-nZ9EfBoNX3Ba7G4Obj9fDOYS22sBVgqT7y9U-5o_8Yh8&sa=X&ved=0ahUKEwit97Gv64f2AhV-IkQIHRGICdkQPQgE-is broken link
+2022-02-17 14:58:58,538 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-17 14:58:58,708 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-17 14:58:58,795 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-17 14:58:59,077 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-17 14:58:59,292 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-17 14:58:59,570 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-17 14:58:59,842 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-17 14:58:59,998 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-17 14:59:00,193 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-17 14:59:00,961 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-17 14:59:01,486 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-17 14:59:02,149 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-17 14:59:07,491 [main] INFO com.google.testcases.baseClass - valid searchJava
+2022-02-17 14:59:11,101 [main] INFO com.google.testcases.baseClass - valid searchcoffee near me
+2022-02-17 14:59:13,601 [main] INFO com.google.testcases.baseClass - valid search$#$^%$
+2022-02-17 14:59:18,144 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-17 14:59:23,349 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-17 15:05:58,877 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-17 15:05:59,242 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-17 15:05:59,586 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-17 15:05:59,742 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-17 15:06:00,068 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-17 15:06:00,246 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-17 15:06:01,362 [main] ERROR com.google.testcases.baseClass - https://www.google.com/search?q=Dr.+Michiaki+Takahashi&oi=ddle&ct=207425236&hl=en&si=ANhW_NrBwbdpNHyNEAdL3p7xUv5AGJEN9h9MzGfi7qZ1Ph8M86uDP01y1LBc4Ybe2QqZUJXnKluqFKYSLXbq_O971gVNUE5-nZ9EfBoNX3Ba7G4Obj9fDOYS22sBVgqT7y9U-5o_8Yh8&sa=X&ved=0ahUKEwjq84r57If2AhWIJUQIHVXfD5AQPQgE-is broken link
+2022-02-17 15:06:01,479 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-17 15:06:01,658 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-17 15:06:01,757 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-17 15:06:02,021 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-17 15:06:02,250 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-17 15:06:02,627 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-17 15:06:02,985 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-17 15:06:03,384 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-17 15:06:03,591 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-17 15:06:04,238 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-17 15:06:04,774 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-17 15:06:05,506 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-17 15:06:10,928 [main] INFO com.google.testcases.baseClass - valid searchJava
+2022-02-17 15:06:14,237 [main] INFO com.google.testcases.baseClass - valid searchcoffee near me
+2022-02-17 15:06:20,239 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-17 15:06:25,434 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-17 15:11:53,419 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-17 15:11:53,745 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-17 15:11:54,066 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-17 15:11:54,228 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-17 15:11:54,531 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-17 15:11:54,688 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-17 15:11:55,792 [main] ERROR com.google.testcases.baseClass - https://www.google.com/search?q=Dr.+Michiaki+Takahashi&oi=ddle&ct=207425236&hl=en&si=ANhW_NrBwbdpNHyNEAdL3p7xUv5AGJEN9h9MzGfi7qZ1Ph8M86uDP01y1LBc4Ybe2QqZUJXnKluqFKYSLXbq_O971gVNUE5-nZ9EfBoNX3Ba7G4Obj9fDOYS22sBVgqT7y9U-5o_8Yh8&sa=X&ved=0ahUKEwiCr5Wi7of2AhVIJ0QIHcN0CJIQPQgE-is broken link
+2022-02-17 15:11:55,901 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-17 15:11:56,072 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-17 15:11:56,156 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-17 15:11:56,422 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-17 15:11:56,688 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-17 15:11:57,068 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-17 15:11:57,425 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-17 15:11:57,583 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-17 15:11:57,721 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-17 15:11:58,368 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-17 15:11:58,892 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-17 15:11:59,583 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-17 15:12:05,333 [main] INFO com.google.testcases.baseClass - valid searchJava
+2022-02-17 15:12:16,146 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-17 15:12:21,327 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-17 15:13:32,637 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-17 15:13:33,030 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-17 15:13:33,303 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-17 15:13:33,461 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-17 15:13:33,780 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-17 15:13:33,911 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-17 15:13:35,026 [main] ERROR com.google.testcases.baseClass - https://www.google.com/search?q=Dr.+Michiaki+Takahashi&oi=ddle&ct=207425236&hl=en&si=ANhW_NrBwbdpNHyNEAdL3p7xUv5AGJEN9h9MzGfi7qZ1Ph8M86uDP01y1LBc4Ybe2QqZUJXnKluqFKYSLXbq_O971gVNUE5-nZ9EfBoNX3Ba7G4Obj9fDOYS22sBVgqT7y9U-5o_8Yh8&sa=X&ved=0ahUKEwil2cPR7of2AhXJJUQIHeK8DT4QPQgE-is broken link
+2022-02-17 15:13:35,142 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-17 15:13:35,294 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-17 15:13:35,381 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-17 15:13:35,644 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-17 15:13:35,781 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-17 15:13:36,079 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-17 15:13:36,340 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-17 15:13:36,503 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-17 15:13:36,635 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-17 15:13:37,383 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-17 15:13:37,918 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-17 15:13:38,533 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-17 15:13:44,870 [main] INFO com.google.testcases.baseClass - valid searchJava
+2022-02-17 15:13:50,148 [main] INFO com.google.testcases.baseClass - valid searchcoffee near me
+2022-02-17 15:13:53,696 [main] INFO com.google.testcases.baseClass - valid search$#$^%$
+2022-02-17 15:14:08,580 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-17 15:14:13,827 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-17 15:16:23,500 [main] INFO com.google.testcases.baseClass - smartx is opened successfully
+2022-02-17 15:16:25,573 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-17 15:16:25,914 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-17 15:16:26,284 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-17 15:16:26,428 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-17 15:16:26,737 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-17 15:16:26,876 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-17 15:16:27,984 [main] ERROR com.google.testcases.baseClass - https://www.google.com/search?q=Dr.+Michiaki+Takahashi&oi=ddle&ct=207425236&hl=en&si=ANhW_NrBwbdpNHyNEAdL3p7xUv5AGJEN9h9MzGfi7qZ1Ph8M86uDP01y1LBc4Ybe2QqZUJXnKluqFKYSLXbq_O971gVNUE5-nZ9EfBoNX3Ba7G4Obj9fDOYS22sBVgqT7y9U-5o_8Yh8&sa=X&ved=0ahUKEwjphvuj74f2AhUoD0QIHWuvDkUQPQgE-is broken link
+2022-02-17 15:16:28,103 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-17 15:16:28,280 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-17 15:16:28,368 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-17 15:16:28,627 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-17 15:16:28,756 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-17 15:16:28,942 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-17 15:16:29,199 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-17 15:16:29,330 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-17 15:16:29,478 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-17 15:16:30,136 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-17 15:16:30,660 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-17 15:16:31,460 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-17 15:16:37,619 [main] INFO com.google.testcases.baseClass - valid searchJava
+2022-02-17 15:16:45,754 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-17 15:16:50,910 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-17 15:21:12,438 [main] INFO com.google.testcases.baseClass - smartx is opened successfully
+2022-02-17 15:21:14,505 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-17 15:21:14,859 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-17 15:21:15,186 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-17 15:21:15,328 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-17 15:21:15,633 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-17 15:21:15,793 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-17 15:21:16,897 [main] ERROR com.google.testcases.baseClass - https://www.google.com/search?q=Dr.+Michiaki+Takahashi&oi=ddle&ct=207425236&hl=en&si=ANhW_NrBwbdpNHyNEAdL3p7xUv5AGJEN9h9MzGfi7qZ1Ph8M86uDP01y1LBc4Ybe2QqZUJXnKluqFKYSLXbq_O971gVNUE5-nZ9EfBoNX3Ba7G4Obj9fDOYS22sBVgqT7y9U-5o_8Yh8&sa=X&ved=0ahUKEwjVmt6t8If2AhW7H0QIHSLNBisQPQgE-is broken link
+2022-02-17 15:21:17,014 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-17 15:21:17,192 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-17 15:21:17,275 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-17 15:21:17,539 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-17 15:21:17,743 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-17 15:21:18,042 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-17 15:21:18,326 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-17 15:21:18,493 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-17 15:21:18,680 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-17 15:21:19,488 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-17 15:21:20,005 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-17 15:21:20,691 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-17 15:21:30,721 [main] INFO com.google.testcases.baseClass - valid searchcalculator
+2022-02-17 15:21:35,439 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-17 15:21:40,743 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-17 15:24:35,327 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-17 15:24:35,705 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-17 15:24:36,087 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-17 15:24:36,270 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-17 15:24:36,592 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-17 15:24:36,754 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-17 15:24:37,866 [main] ERROR com.google.testcases.baseClass - https://www.google.com/search?q=Dr.+Michiaki+Takahashi&oi=ddle&ct=207425236&hl=en&si=ANhW_NrBwbdpNHyNEAdL3p7xUv5AGJEN9h9MzGfi7qZ1Ph8M86uDP01y1LBc4Ybe2QqZUJXnKluqFKYSLXbq_O971gVNUE5-nZ9EfBoNX3Ba7G4Obj9fDOYS22sBVgqT7y9U-5o_8Yh8&sa=X&ved=0ahUKEwjg_76N8Yf2AhVAIEQIHWUcDB4QPQgE-is broken link
+2022-02-17 15:24:37,975 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-17 15:24:38,133 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-17 15:24:38,217 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-17 15:24:38,490 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-17 15:24:38,620 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-17 15:24:39,007 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-17 15:24:39,373 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-17 15:24:39,528 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-17 15:24:39,677 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-17 15:24:40,464 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-17 15:24:40,996 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-17 15:24:41,764 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-17 15:24:47,572 [main] INFO com.google.testcases.baseClass - check the screen shot for search dataJava
+2022-02-17 15:24:51,732 [main] INFO com.google.testcases.baseClass - check the screen shot for search datacoffee near me
+2022-02-17 15:24:54,249 [main] INFO com.google.testcases.baseClass - check the screen shot for search data$#$^%$
+2022-02-17 15:25:07,721 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-17 15:25:12,913 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-17 15:25:38,147 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-17 15:25:38,511 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-17 15:25:38,812 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-17 15:25:38,998 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-17 15:25:39,310 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-17 15:25:39,448 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-17 15:25:40,560 [main] ERROR com.google.testcases.baseClass - https://www.google.com/search?q=Dr.+Michiaki+Takahashi&oi=ddle&ct=207425236&hl=en&si=ANhW_NrBwbdpNHyNEAdL3p7xUv5AGJEN9h9MzGfi7qZ1Ph8M86uDP01y1LBc4Ybe2QqZUJXnKluqFKYSLXbq_O971gVNUE5-nZ9EfBoNX3Ba7G4Obj9fDOYS22sBVgqT7y9U-5o_8Yh8&sa=X&ved=0ahUKEwjAwr6r8Yf2AhXvJ0QIHQ_6AdwQPQgE-is broken link
+2022-02-17 15:26:00,988 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-17 15:26:06,352 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-17 15:26:42,264 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-17 15:26:42,644 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-17 15:26:42,975 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-17 15:26:43,104 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-17 15:26:43,376 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-17 15:26:43,531 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-17 15:26:44,632 [main] ERROR com.google.testcases.baseClass - https://www.google.com/search?q=Dr.+Michiaki+Takahashi&oi=ddle&ct=207425236&hl=en&si=ANhW_NrBwbdpNHyNEAdL3p7xUv5AGJEN9h9MzGfi7qZ1Ph8M86uDP01y1LBc4Ybe2QqZUJXnKluqFKYSLXbq_O971gVNUE5-nZ9EfBoNX3Ba7G4Obj9fDOYS22sBVgqT7y9U-5o_8Yh8&sa=X&ved=0ahUKEwicu4jK8Yf2AhX4H0QIHa0CAawQPQgE-is broken link
+2022-02-17 15:26:44,745 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-17 15:26:44,914 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-17 15:26:44,997 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-17 15:26:45,244 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-17 15:26:45,511 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-17 15:26:45,879 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-17 15:26:46,246 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-17 15:26:46,391 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-17 15:26:46,535 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-17 15:26:47,172 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-17 15:26:47,686 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-17 15:26:48,386 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-17 15:26:54,465 [main] INFO com.google.testcases.baseClass - check the screen shot for search dataJava
+2022-02-17 15:27:01,432 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-17 15:27:06,724 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-17 15:28:39,473 [main] INFO com.google.testcases.baseClass - smartx is opened successfully
+2022-02-17 15:28:41,474 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-17 15:28:41,801 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-17 15:28:42,153 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-17 15:28:42,312 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-17 15:28:42,612 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-17 15:28:42,752 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-17 15:28:43,857 [main] ERROR com.google.testcases.baseClass - https://www.google.com/search?q=Dr.+Michiaki+Takahashi&oi=ddle&ct=207425236&hl=en&si=ANhW_NrBwbdpNHyNEAdL3p7xUv5AGJEN9h9MzGfi7qZ1Ph8M86uDP01y1LBc4Ybe2QqZUJXnKluqFKYSLXbq_O971gVNUE5-nZ9EfBoNX3Ba7G4Obj9fDOYS22sBVgqT7y9U-5o_8Yh8&sa=X&ved=0ahUKEwjbvPSC8of2AhWMI0QIHbfTC28QPQgE-is broken link
+2022-02-17 15:28:43,979 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-17 15:28:44,135 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-17 15:28:44,213 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-17 15:28:44,453 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-17 15:28:44,626 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-17 15:28:44,917 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-17 15:28:45,180 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-17 15:28:45,350 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-17 15:28:45,486 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-17 15:28:46,117 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-17 15:28:46,634 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-17 15:28:47,507 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-17 15:28:56,988 [main] INFO com.google.testcases.baseClass - check the screen shot for search datacalculator
+2022-02-17 15:29:00,480 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-17 15:29:06,360 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-17 15:30:21,386 [main] INFO com.google.testcases.baseClass - smartx is opened successfully
+2022-02-17 15:30:23,451 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-17 15:30:23,828 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-17 15:30:24,164 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-17 15:30:24,296 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-17 15:30:24,615 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-17 15:30:24,778 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-17 15:30:25,884 [main] ERROR com.google.testcases.baseClass - https://www.google.com/search?q=Dr.+Michiaki+Takahashi&oi=ddle&ct=207425236&hl=en&si=ANhW_NrBwbdpNHyNEAdL3p7xUv5AGJEN9h9MzGfi7qZ1Ph8M86uDP01y1LBc4Ybe2QqZUJXnKluqFKYSLXbq_O971gVNUE5-nZ9EfBoNX3Ba7G4Obj9fDOYS22sBVgqT7y9U-5o_8Yh8&sa=X&ved=0ahUKEwi06ryz8of2AhX0H0QIHUxcCVYQPQgE-is broken link
+2022-02-17 15:30:26,026 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-17 15:30:26,199 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-17 15:30:26,288 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-17 15:30:26,545 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-17 15:30:26,697 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-17 15:30:26,995 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-17 15:30:27,272 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-17 15:30:27,446 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-17 15:30:27,669 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-17 15:30:28,335 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-17 15:30:28,760 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-17 15:30:29,397 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-17 15:30:34,252 [main] INFO com.google.testcases.baseClass - valid searchJava
+2022-02-17 15:30:39,586 [main] INFO com.google.testcases.baseClass - valid searchcoffee near me
+2022-02-17 15:30:44,028 [main] INFO com.google.testcases.baseClass - valid search$#$^%$
+2022-02-17 15:30:48,402 [main] INFO com.google.testcases.baseClass - valid searchcalculator
+2022-02-17 15:30:53,934 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-17 15:30:59,013 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-17 16:43:28,683 [main] INFO com.google.testcases.baseClass - smartx is opened successfully
+2022-02-17 16:43:31,759 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-17 16:43:32,173 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-17 16:43:32,518 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-17 16:43:32,670 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-17 16:43:32,965 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-17 16:43:33,110 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-17 16:43:34,207 [main] ERROR com.google.testcases.baseClass - https://www.google.com/search?q=Dr.+Michiaki+Takahashi&oi=ddle&ct=207425236&hl=en&si=ANhW_NrBwbdpNHyNEAdL3p7xUv5AGJEN9h9MzGfi7qZ1Ph8M86uDP01y1LBc4Ybe2QqZUJXnKluqFKYSLXbq_O971gVNUE5-nZ9EfBoNX3Ba7G4Obj9fDOYS22sBVgqT7y9U-5o_8Yh8&sa=X&ved=0ahUKEwjey8Lfgoj2AhX_IkQIHU8yBk8QPQgE-is broken link
+2022-02-17 16:43:34,325 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-17 16:43:34,497 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-17 16:43:34,588 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-17 16:43:34,846 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-17 16:43:35,063 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-17 16:43:35,354 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-17 16:43:35,631 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-17 16:43:35,789 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-17 16:43:35,941 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-17 16:43:36,742 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-17 16:43:37,258 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-17 16:43:37,946 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-17 16:43:46,776 [main] INFO com.google.testcases.baseClass - valid searchcalculator
+2022-02-17 16:43:52,265 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-17 16:43:57,527 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-17 16:54:03,762 [main] INFO com.google.testcases.baseClass - smartx is opened successfully
+2022-02-17 16:54:05,764 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-17 16:54:06,148 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-17 16:54:06,488 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-17 16:54:06,644 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-17 16:54:06,940 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-17 16:54:07,081 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-17 16:54:08,182 [main] ERROR com.google.testcases.baseClass - https://www.google.com/search?q=Dr.+Michiaki+Takahashi&oi=ddle&ct=207425236&hl=en&si=ANhW_NrBwbdpNHyNEAdL3p7xUv5AGJEN9h9MzGfi7qZ1Ph8M86uDP01y1LBc4Ybe2QqZUJXnKluqFKYSLXbq_O971gVNUE5-nZ9EfBoNX3Ba7G4Obj9fDOYS22sBVgqT7y9U-5o_8Yh8&sa=X&ved=0ahUKEwjssauOhYj2AhUZJ0QIHUHjDMQQPQgE-is broken link
+2022-02-17 16:54:08,303 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-17 16:54:08,493 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-17 16:54:08,581 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-17 16:54:08,832 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-17 16:54:09,054 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-17 16:54:09,350 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-17 16:54:09,719 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-17 16:54:09,860 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-17 16:54:10,024 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-17 16:54:10,701 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-17 16:54:11,222 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-17 16:54:11,978 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-17 16:54:15,249 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-17 16:54:20,666 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-17 17:20:06,010 [main] INFO com.google.testcases.baseClass - smartx is opened successfully
+2022-02-17 17:20:08,119 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-17 17:20:08,499 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-17 17:20:08,857 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-17 17:20:09,029 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-17 17:20:09,339 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-17 17:20:09,483 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-17 17:20:10,591 [main] ERROR com.google.testcases.baseClass - https://www.google.com/search?q=Dr.+Michiaki+Takahashi&oi=ddle&ct=207425236&hl=en&si=ANhW_NrBwbdpNHyNEAdL3p7xUv5AGJEN9h9MzGfi7qZ1Ph8M86uDP01y1LBc4Ybe2QqZUJXnKluqFKYSLXbq_O971gVNUE5-nZ9EfBoNX3Ba7G4Obj9fDOYS22sBVgqT7y9U-5o_8Yh8&sa=X&ved=0ahUKEwjz06b3ioj2AhV9JkQIHYlTDGkQPQgE-is broken link
+2022-02-17 17:20:10,718 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-17 17:20:10,895 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-17 17:20:10,980 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-17 17:20:11,243 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-17 17:20:11,491 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-17 17:20:11,787 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-17 17:20:12,073 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-17 17:20:12,196 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-17 17:20:12,337 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-17 17:20:12,981 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-17 17:20:13,406 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-17 17:20:14,184 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-17 17:20:17,460 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-17 17:20:22,699 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-17 17:45:01,144 [main] INFO com.google.testcases.baseClass - smartx is opened successfully
+2022-02-17 17:45:03,093 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-17 17:45:03,480 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-17 17:45:03,808 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-17 17:45:03,957 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-17 17:45:04,242 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-17 17:45:04,390 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-17 17:45:05,487 [main] ERROR com.google.testcases.baseClass - https://www.google.com/search?q=Dr.+Michiaki+Takahashi&oi=ddle&ct=207425236&hl=en&si=ANhW_NrBwbdpNHyNEAdL3p7xUv5AGJEN9h9MzGfi7qZ1Ph8M86uDP01y1LBc4Ybe2QqZUJXnKluqFKYSLXbq_O971gVNUE5-nZ9EfBoNX3Ba7G4Obj9fDOYS22sBVgqT7y9U-5o_8Yh8&sa=X&ved=0ahUKEwjYgaDAkIj2AhVgIUQIHRPWDGcQPQgE-is broken link
+2022-02-17 17:45:05,596 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-17 17:45:05,763 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-17 17:45:05,853 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-17 17:45:06,105 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-17 17:45:06,374 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-17 17:45:06,519 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-17 17:45:06,784 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-17 17:45:06,928 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-17 17:45:07,085 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-17 17:45:07,820 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-17 17:45:08,355 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-17 17:45:08,939 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-17 17:45:12,154 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-17 17:45:17,527 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-18 12:23:40,896 [main] INFO com.google.testcases.baseClass - smartx is opened successfully
+2022-02-18 12:23:43,522 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-18 12:23:43,894 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-18 12:23:44,273 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-18 12:23:44,430 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-18 12:23:44,736 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-18 12:23:44,892 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-18 12:23:45,035 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-18 12:23:45,237 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-18 12:23:45,338 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-18 12:23:45,731 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-18 12:23:46,020 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-18 12:23:46,327 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-18 12:23:46,599 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-18 12:23:46,764 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-18 12:23:46,920 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-18 12:23:47,568 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-18 12:23:48,090 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-18 12:23:48,721 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-18 12:23:52,943 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-18 12:23:59,782 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-18 15:15:06,016 [main] INFO com.google.testcases.baseClass - smartx is opened successfully
+2022-02-18 15:15:09,372 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-18 15:15:09,778 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-18 15:15:10,158 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-18 15:15:10,332 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-18 15:15:10,648 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-18 15:15:10,805 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-18 15:15:10,950 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-18 15:15:11,173 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-18 15:15:11,278 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-18 15:15:11,616 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-18 15:15:11,858 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-18 15:15:12,362 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-18 15:15:12,658 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-18 15:15:12,864 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-18 15:15:13,006 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-18 15:15:13,731 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-18 15:15:14,264 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-18 15:15:15,246 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-18 15:15:20,320 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-18 15:15:28,138 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-18 15:25:00,011 [main] INFO com.google.testcases.baseClass - smartx is opened successfully
+2022-02-18 15:25:04,094 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-18 15:25:04,519 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-18 15:25:05,005 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-18 15:25:05,186 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-18 15:25:05,547 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-18 15:25:05,716 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-18 15:25:05,875 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-18 15:25:06,112 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-18 15:25:06,212 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-18 15:25:06,594 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-18 15:25:06,837 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-18 15:25:07,311 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-18 15:25:07,770 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-18 15:25:07,940 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-18 15:25:08,101 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-18 15:25:08,916 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-18 15:25:09,452 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-18 15:25:10,260 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-18 15:25:16,125 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-18 15:25:25,044 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-18 15:30:34,504 [main] INFO com.google.testcases.baseClass - smartx is opened successfully
+2022-02-18 15:30:37,126 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-18 15:30:37,387 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-18 15:30:37,764 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-18 15:30:37,941 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-18 15:30:38,268 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-18 15:30:38,442 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-18 15:30:38,579 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-18 15:30:38,782 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-18 15:30:38,895 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-18 15:30:39,178 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-18 15:30:39,468 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-18 15:30:39,955 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-18 15:30:40,376 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-18 15:30:40,512 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-18 15:30:40,669 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-18 15:30:41,470 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-18 15:30:42,002 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-18 15:30:42,847 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-18 15:30:47,248 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-18 15:30:54,343 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-18 17:12:53,805 [main] INFO com.google.testcases.baseClass - smartx is opened successfully
+2022-02-18 17:12:57,029 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-18 17:12:57,409 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-18 17:12:57,767 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-18 17:12:57,942 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-18 17:12:58,264 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-18 17:12:58,432 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-18 17:12:58,566 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-18 17:12:58,789 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-18 17:12:58,892 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-18 17:12:59,272 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-18 17:12:59,506 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-18 17:12:59,829 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-18 17:13:00,130 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-18 17:13:00,313 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-18 17:13:00,529 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-18 17:13:01,182 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-18 17:13:01,710 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-18 17:13:02,266 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-18 17:13:06,693 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-18 17:13:13,182 [main] INFO com.google.testcases.baseClass - youtubeopened successfully
+2022-02-18 17:13:35,752 [main] INFO com.google.testcases.baseClass - smartx is opened successfully
+2022-02-18 17:13:39,030 [main] INFO com.google.testcases.baseClass - https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header-is valid link
+2022-02-18 17:13:39,426 [main] INFO com.google.testcases.baseClass - https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US-is valid link
+2022-02-18 17:13:39,745 [main] INFO com.google.testcases.baseClass - https://mail.google.com/mail/&ogbl-is valid link
+2022-02-18 17:13:39,920 [main] INFO com.google.testcases.baseClass - https://www.google.com/imghp?hl=en&ogbl-is valid link
+2022-02-18 17:13:40,265 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en/about/products-is valid link
+2022-02-18 17:13:40,443 [main] INFO com.google.testcases.baseClass - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ-is valid link
+2022-02-18 17:13:40,584 [main] INFO com.google.testcases.baseClass - https://www.google.com/#-is valid link
+2022-02-18 17:13:40,784 [main] INFO com.google.testcases.baseClass - https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1-is valid link
+2022-02-18 17:13:40,869 [main] INFO com.google.testcases.baseClass - https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1-is valid link
+2022-02-18 17:13:41,301 [main] INFO com.google.testcases.baseClass - https://google.com/search/howsearchworks/?fg=1-is valid link
+2022-02-18 17:13:41,455 [main] INFO com.google.testcases.baseClass - https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=-is valid link
+2022-02-18 17:13:41,759 [main] INFO com.google.testcases.baseClass - https://policies.google.com/privacy?hl=en&fg=1-is valid link
+2022-02-18 17:13:42,050 [main] INFO com.google.testcases.baseClass - https://policies.google.com/terms?hl=en&fg=1-is valid link
+2022-02-18 17:13:42,239 [main] INFO com.google.testcases.baseClass - https://www.google.com/preferences?hl=en&fg=1-is valid link
+2022-02-18 17:13:42,532 [main] INFO com.google.testcases.baseClass - https://www.google.com/advanced_search?hl=en&fg=1-is valid link
+2022-02-18 17:13:43,335 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1-is valid link
+2022-02-18 17:13:43,851 [main] INFO com.google.testcases.baseClass - https://www.google.com/history/optout?hl=en&fg=1-is valid link
+2022-02-18 17:13:44,410 [main] INFO com.google.testcases.baseClass - https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1-is valid link
+2022-02-18 17:13:48,980 [main] INFO com.google.testcases.baseClass - Google search by Image page loaded successfully
+2022-02-18 17:13:55,667 [main] INFO com.google.testcases.baseClass - youtubeopened successfully

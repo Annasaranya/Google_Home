@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-18T17:13:28 PST" name="GoogleV1" finished-at="2022-02-18T17:13:56 PST" duration-ms="27962">
+    <groups>
+    </groups>
+    <test started-at="2022-02-18T17:13:28 PST" name="GoogleHomePage Test" finished-at="2022-02-18T17:13:56 PST" duration-ms="27962">
+      <class name="com.google.testcases.TC_Images_link_test">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.google.testcases.TC_Images_link_test@3d34d211]" started-at="2022-02-18T17:13:45 PST" name="setup" finished-at="2022-02-18T17:13:47 PST" duration-ms="2089" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ImageLink_Test()[pri:0, instance:com.google.testcases.TC_Images_link_test@3d34d211]" started-at="2022-02-18T17:13:47 PST" name="ImageLink_Test" finished-at="2022-02-18T17:13:48 PST" duration-ms="1732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImageLink_Test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.google.testcases.TC_Images_link_test@3d34d211]" started-at="2022-02-18T17:13:48 PST" name="teardown" finished-at="2022-02-18T17:13:49 PST" duration-ms="716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.google.testcases.TC_Images_link_test -->
+      <class name="com.google.testcases.TC_brokenLinks">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.google.testcases.TC_brokenLinks@ae13544]" started-at="2022-02-18T17:13:36 PST" name="setup" finished-at="2022-02-18T17:13:38 PST" duration-ms="2107" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="broken_links()[pri:0, instance:com.google.testcases.TC_brokenLinks@ae13544]" started-at="2022-02-18T17:13:38 PST" name="broken_links" finished-at="2022-02-18T17:13:44 PST" duration-ms="5793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- broken_links -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.google.testcases.TC_brokenLinks@ae13544]" started-at="2022-02-18T17:13:44 PST" name="teardown" finished-at="2022-02-18T17:13:45 PST" duration-ms="745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.google.testcases.TC_brokenLinks -->
+      <class name="com.google.testcases.TC_openGoogleApps">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.google.testcases.TC_openGoogleApps@7dc0f706]" started-at="2022-02-18T17:13:49 PST" name="setup" finished-at="2022-02-18T17:13:51 PST" duration-ms="2092" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickGoogleApps(java.lang.String)[pri:0, instance:com.google.testcases.TC_openGoogleApps@7dc0f706]" started-at="2022-02-18T17:13:51 PST" name="clickGoogleApps" finished-at="2022-02-18T17:13:55 PST" duration-ms="3877" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[youtube]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickGoogleApps -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.google.testcases.TC_openGoogleApps@7dc0f706]" started-at="2022-02-18T17:13:55 PST" name="teardown" finished-at="2022-02-18T17:13:56 PST" duration-ms="772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.google.testcases.TC_openGoogleApps -->
+      <class name="com.google.testcases.TC_click_feelinglucky">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.google.testcases.TC_click_feelinglucky@6f4a47c7]" started-at="2022-02-18T17:13:28 PST" name="setup" finished-at="2022-02-18T17:13:32 PST" duration-ms="3372" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="feelinglucky(java.lang.String)[pri:0, instance:com.google.testcases.TC_click_feelinglucky@6f4a47c7]" started-at="2022-02-18T17:13:32 PST" name="feelinglucky" finished-at="2022-02-18T17:13:35 PST" duration-ms="3738" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[smartx]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feelinglucky -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.google.testcases.TC_click_feelinglucky@6f4a47c7]" started-at="2022-02-18T17:13:35 PST" name="teardown" finished-at="2022-02-18T17:13:36 PST" duration-ms="731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.google.testcases.TC_click_feelinglucky -->
+    </test> <!-- GoogleHomePage Test -->
+  </suite> <!-- GoogleV1 -->
+</testng-results>
