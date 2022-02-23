@@ -9,6 +9,8 @@ import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
+//This class reads the data from the xls file for data driven testing
+
 public class XLUtils {
 	public static FileInputStream fi;
 	public static FileOutputStream fo;
