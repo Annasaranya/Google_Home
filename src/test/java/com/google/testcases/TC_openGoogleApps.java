@@ -16,20 +16,20 @@ public class TC_openGoogleApps extends baseClass  {
 	@Test
 	public void clickGoogleApps(String app) throws InterruptedException, IOException
 	{
-	// Google Apps is a SVG element. There are multiple svg element so I used multiple attributes.
+	
 		Home_Page hp=new Home_Page(driver);
 		hp.clickGoogleApps();
 			Thread.sleep(1000);
 			
 			driver.switchTo().frame(1);
-			// Locating all app names. XPath is tricky as we can not use their values as they are dynamic
+			
 			List<WebElement> allMenus = hp.listOfApps();
 			
-			// Printing all app names Without stream
+			
 			for(WebElement menu : allMenus)
 			{
 				 String link=menu.getAttribute("href");
-				//System.out.println(link);
+				
 				if(link.contains(app))
 				{
 				driver.get(link);	
@@ -38,7 +38,7 @@ public class TC_openGoogleApps extends baseClass  {
 				
 			}
 			Thread.sleep(1000);
-			if(driver.getCurrentUrl().contains("youtube"))
+			if(driver.getCurrentUrl().contains(app))
 			{
 				captureScreen(driver,"clickGoogleApps",app);
 			logger.info(app+ "opened successfully");
