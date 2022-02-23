@@ -9,6 +9,8 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+/*Create a POM(Page Object Model) for the elements in the google home page */
+
 public class Home_Page {
 	
 	WebDriver driver;
