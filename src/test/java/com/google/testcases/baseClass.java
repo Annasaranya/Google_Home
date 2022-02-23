@@ -20,6 +20,9 @@ import org.testng.annotations.Parameters;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+//Base class to initiate the WebDriver and starts the browser based on the given parameter 
+//Common methods used by all test cases (Taking Screenshot ,TearDown )
+
 public class baseClass {
 
 	public String baseURL="https://www.google.com/";
