@@ -10,7 +10,7 @@ import com.google.pageObjects.Home_Page;
 
 public class TC_click_feelinglucky extends baseClass {
 	
-	
+// To check the functionality of FeelingLucky button in Google home page	
 @Parameters("searchtxt")
 	@Test
 	public void feelinglucky(String searchtxt) throws IOException, InterruptedException {
