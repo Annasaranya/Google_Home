@@ -11,7 +11,7 @@ import org.openqa.selenium.WebElement;
 
 import org.testng.annotations.Test;
 
-
+// To check for broken links in google home page
 
 public class TC_brokenLinks extends baseClass{
 	
