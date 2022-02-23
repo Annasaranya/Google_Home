@@ -7,6 +7,8 @@ import org.testng.annotations.Test;
 
 import com.google.pageObjects.Home_Page;
 
+//Test case to check the logo of the google home page changes upon clicking the image link
+
 public class TC_Images_link_test extends baseClass {
 	@Test
 	public void ImageLink_Test() throws IOException, InterruptedException
