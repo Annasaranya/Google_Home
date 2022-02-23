@@ -16,7 +16,7 @@
 		  <class name="com.google.testcases.TC_click_feelinglucky" />
 			  
 		<class name="com.google.testcases.TC_brokenLinks" />
-<!--  	<class name="com.google.testcases.TC_datadriven_search" />-->
+ 	<class name="com.google.testcases.TC_datadriven_search" />
 	<class name="com.google.testcases.TC_Images_link_test"/>
 	<class name="com.google.testcases.TC_openGoogleApps"/>
 
