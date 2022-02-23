@@ -18,6 +18,8 @@ import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.ChartLocation;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 
+/* To create extent report for the test cases executed */
+
 public class Reporting extends TestListenerAdapter
 {
 	public ExtentHtmlReporter htmlReporter;
