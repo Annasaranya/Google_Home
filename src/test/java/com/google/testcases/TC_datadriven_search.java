@@ -9,6 +9,8 @@ import org.testng.annotations.Test;
 import com.google.pageObjects.Home_Page;
 import com.google.utilities.XLUtils;
 
+//Data Driven test to check how the search works for different search text
+
 public class TC_datadriven_search extends baseClass{
 	
 	@Test(dataProvider="searchdata")
@@ -20,7 +22,7 @@ public class TC_datadriven_search extends baseClass{
 		Thread.sleep(1000);
 		captureScreen(driver,"datadriven_search",searchtxt);
 		
-		//Thread.sleep(1000);
+		
 		
 	if(driver.getPageSource().contains("did not match any documents"))
 		{
@@ -31,11 +33,11 @@ public class TC_datadriven_search extends baseClass{
 	{
 	
 		logger.info("valid search"+searchtxt);
-		Thread.sleep(1000);	
+			
 		
 	}
 	
-		//logger.info("check the screen shot for search data"+searchtxt);
+	
 	driver.navigate().back();
 	Thread.sleep(1000);
 	
